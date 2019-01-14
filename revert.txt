@@ -11,3 +11,5 @@ git config --global user.email
 git init
 git help
 
+git rest
+git revert
